@@ -39,7 +39,7 @@ This project showcases a modern data stack and best practices in data engineerin
 ## Technical Architecture
 
 The architecture is composed of several decoupled layers, ensuring scalability and maintainability.
-![alt text](./images/data_flow.PNG)
+![alt text](./images/data_flow.png)
 
 
  
